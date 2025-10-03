@@ -1,5 +1,5 @@
 # Hola, soy Axel
-*Soy tecnico en electronica nivel medio
+*Tecnico en electronica nivel medio
 *Estudiante de ingenieria en Informatica
 
 # Github Stats
